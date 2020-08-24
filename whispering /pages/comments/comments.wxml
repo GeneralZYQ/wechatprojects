@@ -1,0 +1,6 @@
+
+<view class="commentBackground" id="{{item.id}}">
+  <!-- <view class="commentContent">{{item.name}}</view>
+   -->
+   <view class="commentContent">一给我里giaogiao搞</view>
+</view>

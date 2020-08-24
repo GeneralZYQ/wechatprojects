@@ -1,0 +1,13 @@
+.commentBackground {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1rpx solid rgba(204, 204, 204, 1);
+}
+
+.commentContent {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 100%;
+}

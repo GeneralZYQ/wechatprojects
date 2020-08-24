@@ -1,0 +1,18 @@
+<!--pages/friends/friends.wxml-->
+<!-- <view class="head">
+  <view class="head_item">手机联系人</view>
+  <view class="ring"></view>
+  <view class="head_item">微信联系人</view>
+</view> -->
+
+<block wx:for="{{ets}}">
+<view class="item" id="{{item.id}}">
+  <view class="intro">{{item.name}}</view>
+</view>
+</block>
+
+
+
+<view class="item">
+<view class="intro">98765432123</view>
+</view>

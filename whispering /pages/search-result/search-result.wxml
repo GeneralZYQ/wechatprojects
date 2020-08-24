@@ -1,0 +1,9 @@
+<block wx:for="{{ets}}">
+<view class="item" id="{{item.id}}">
+  <view class="intro">{{item.name}}</view>
+</view>
+</block>
+
+<view class="item">
+<view class="intro">98765432123</view>
+</view>
